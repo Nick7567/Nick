@@ -10,3 +10,4 @@ Hola, mi nombre es Nick y me gusta mucho la informatica en general como desmonta
 - Me gusta jugar videojuegos de pc como Left 4 Dead 2 ![Left 4 Dead 2](https://i.ytimg.com/vi/4c9jHdn8b1I/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDkzpRge_5ejh_fQbb5ZNDoG_htRw).
 - Tambien juegos de movil como [Clash Royale](https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=es&pli=1) o [Brawl Stars](https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=es).
 - Me gusta escuchar gran variedad de musica como reggeaton, salsa o musica en ingles.  
+# Estudios 
