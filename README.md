@@ -13,4 +13,3 @@ Hola, mi nombre es Nick y me gusta mucho la informatica en general como desmonta
 # Estudios 
 - Hice la *ESO* en la bastida y saque una nota media de **8**.
 - Siento que soy muy bueno en el ingles y en las matematicas.
-- 
